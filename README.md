@@ -40,14 +40,14 @@ python -m venv venv
 source venv/bin/activate   # For Linux/Mac
 venv\Scripts\activate      # For Windows
 ```
-Install the required packages:
-pip install -r requirements.txt
+**Install the required packages:**
+- pip install -r requirements.txt
 
-Set up environment variables in .env:
-GOOGLE_API_KEY=your_google_gemini_api_key
-GEMINI_MODEL=gemini-1.5-flash
+**Set up environment variables in .env:**
+- GOOGLE_API_KEY=your_google_gemini_api_key
+- GEMINI_MODEL=gemini-1.5-flash
 
-Run the app:
+**Run the app:**
 python app.py
 
 ---
