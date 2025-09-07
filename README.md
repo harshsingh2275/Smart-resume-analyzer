@@ -48,7 +48,7 @@ venv\Scripts\activate      # For Windows
 - GEMINI_MODEL=gemini-1.5-flash
 
 **Run the app:**
-python app.py
+- python app.py
 
 ---
 
