@@ -71,10 +71,9 @@ Smart-resume-analyzer/
 
 👨‍💻 **Team Members:**
 
+- 🚀 **Shashwat Singh** – Project Lead & Integration
 - 🤖 **Shagun Chaudhary** – AI Engineer & Backend  
 - 🎨 **Shaurya Goel** – Frontend & UI/UX  
-- 🚀 **Shashwat Singh** – Project Lead & Integration
-
 
 ---
 
