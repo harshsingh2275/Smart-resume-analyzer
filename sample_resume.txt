@@ -1,0 +1,15 @@
+John Doe
+Email: john@example.com
+ | Github: github.com/johndoe
+
+Experience
+
+Software Intern, ABC Labs (2024) — Built an internal dashboard to track KPIs.
+
+Teaching Assistant, University (2023) — Helped 60+ students with Python labs.
+
+Skills
+Python, JavaScript, SQL, Flask, React, Git, Docker
+
+Education
+B.Tech. in Computer Science, 2025
