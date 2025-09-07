@@ -52,15 +52,15 @@ python app.py
 
 ---
 
-📂 Project Structure:
+📂 **Project Structure:**
 Smart-resume-analyzer/
-│── app.py # Main Gradio app
-│── utils.py # Helper functions
-│── requirements.txt # Python dependencies
-│── README.md # Documentation
-│── LICENSE # Open-source license
-│── .gitignore # Ignored files
-│── samples/ # Example resumes & job descriptions
+- │── app.py # Main Gradio app
+- │── utils.py # Helper functions
+- │── requirements.txt # Python dependencies
+- │── README.md # Documentation
+- │── LICENSE # Open-source license
+- │── .gitignore # Ignored files
+- │── samples/ # Example resumes & job descriptions
 
 ---
 
